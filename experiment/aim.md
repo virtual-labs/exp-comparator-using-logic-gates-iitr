@@ -1,1 +1,1 @@
-### Aim of the experiment
+#### To analyse the truth table of 1-bit comparator by using NOT, AND and NOR logic gate ICs and 2-bit comparator by using 1-input NOT, 3-input AND, 2-input AND, 3-input OR and 2-input Ex-NOR logic gate ICs and to understand the working of 1-bit comparator and 2- bit comparator with the help of LEDs display.

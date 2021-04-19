@@ -1,0 +1,1 @@
+## Verify the truth table of one bit and two bit comparator using logic gates.
